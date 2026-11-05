@@ -1,0 +1,10 @@
+# Fichiers générés automatiquement par Python : inutile de les envoyer sur GitHub
+__pycache__/
+*.pyc
+
+# Fichiers propres à l'éditeur ou au système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
